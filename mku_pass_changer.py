@@ -8,7 +8,7 @@ fees_url='https://studentportal.mku.ac.ke/umis/studentportal/statement_detailed.
 pass_url='https://studentportal.mku.ac.ke/umis/studentportal/password_update.php'
 
 # student credentials
-userName= ""
+userName= "lutta"
 password=""
 maybe=" Login "
 
