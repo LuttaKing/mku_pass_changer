@@ -15,7 +15,7 @@ maybe=" Login "
 currentPassword=""
 newPassword=""
 confirmPassword=''
-passwordHint='Awesomeness'
+passwordHint='Awesomedsness'
 changePassword='Change Password'
 
 login_payload = dict(regNo=userName,smisPass=password,smisLogon=maybe)
