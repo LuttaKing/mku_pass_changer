@@ -2,7 +2,7 @@
 import requests,re
 from bs4 import BeautifulSoup
 
-#important links
+#important link
 url="https://studentportal.mku.ac.ke/umis/studentportal/"
 fees_url='https://studentportal.mku.ac.ke/umis/studentportal/statement_detailed.php'
 pass_url='https://studentportal.mku.ac.ke/umis/studentportal/password_update.php'
