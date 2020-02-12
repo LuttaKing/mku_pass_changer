@@ -9,7 +9,7 @@ pass_url='https://studentportal.mku.ac.ke/umis/studentportal/password_update.php
 
 # student credentials
 userName= "lutta21"
-password=""
+password="ghgx"
 maybe=" Login "
 
 currentPassword=""
