@@ -1,4 +1,4 @@
-# import the necess modules...{bs4,re,requests}
+# ggiimport the necess modules...{bs4,re,requests}
 import requests,re
 from bs4 import BeautifulSoup
 
