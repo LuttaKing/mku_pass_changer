@@ -8,14 +8,14 @@ fees_url='https://studentportal.mku.ac.ke/umis/studentportal/statement_detailed.
 pass_url='https://studentportal.mku.ac.ke/umis/studentportal/password_update.php'
 
 # student credentials
-userName= "lutthdjda21"
+userName= "lutjda21"
 password="ghgxgdhhshh"
 maybe=" Login "
 
 currentPassword=""
 newPassword=""
 confirmPassword=''
-passwordHint='Awesomedsness'
+passwordHint='Awesomeness'
 changePassword='Change Password'
 
 login_payload = dict(regNo=userName,smisPass=password,smisLogon=maybe)
